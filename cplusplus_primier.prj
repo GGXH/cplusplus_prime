@@ -17,12 +17,14 @@
   </Project_ID>
   <Files>
     <File>/home/ggxh/CS/cplusplus_primier/chp3/</File>
+    <File>/home/ggxh/CS/cplusplus_primier/chp5/</File>
     <File>/home/ggxh/CS/cplusplus_primier/chp2/</File>
     <File>/home/ggxh/CS/cplusplus_primier/chp4/</File>
     <File>/home/ggxh/CS/cplusplus_primier/chp1/</File>
   </Files>
   <Group_Filter>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp3/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cplusplus_primier/chp5/">*.*</OF>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp2/">*.*</OF>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp4/">*.*</OF>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp1/">*.*</OF>
