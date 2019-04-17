@@ -21,6 +21,7 @@
     <File>/home/ggxh/CS/cplusplus_primier/chp2/</File>
     <File>/home/ggxh/CS/cplusplus_primier/chp4/</File>
     <File>/home/ggxh/CS/cplusplus_primier/chp1/</File>
+    <File>/home/ggxh/CS/cplusplus_primier/chp6/</File>
   </Files>
   <Group_Filter>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp3/">*.*</OF>
@@ -28,5 +29,6 @@
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp2/">*.*</OF>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp4/">*.*</OF>
     <OF Name="/home/ggxh/CS/cplusplus_primier/chp1/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cplusplus_primier/chp6/">*.*</OF>
   </Group_Filter>
 </PRJ>

@@ -8,18 +8,18 @@
     <Expand>0</Expand>
   </Folder>
   <Folder Name="/home/ggxh/CS/cplusplus_primier/chp5/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Project_Information>
-    <Working_Time>-440442043760858</Working_Time>
-    <Project_Start>2B0000002600000016000000060000000200000077000000030000004000000000000000F1550000808FFFFFFFFFFFFFB06A5613F155000041</Project_Start>
+    <Working_Time>756971421393557</Working_Time>
+    <Project_Start>27000000100000001500000010000000030000007700000002000000690000000100000031560000909DFFFFFFFFFFFF204BBEE13156000081</Project_Start>
     <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0))</MDIPerspective>
   </Project_Information>
   <Active_Settings>
     <Active_File>/home/ggxh/CS/cplusplus_primier/chp4/ex4_5.cpp</Active_File>
   </Active_Settings>
   <Open_Files>
-    <File>/home/ggxh/CS/cplusplus_primier/chp5/ex5_19.cpp</File>
+    <File>/home/ggxh/CS/cplusplus_primier/chp6/ex6_38.cpp</File>
   </Open_Files>
   <Folder Name="/home/ggxh/CS/cplusplus_primier/chp2/">
     <Expand>0</Expand>
@@ -29,5 +29,8 @@
   </Folder>
   <Folder Name="/home/ggxh/CS/cplusplus_primier/chp1/">
     <Expand>0</Expand>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/cplusplus_primier/chp6/">
+    <Expand>1</Expand>
   </Folder>
 </PRJ>
